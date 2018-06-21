@@ -11,5 +11,5 @@ Initial port:
 # TODO
 - Actually publish to this placeholder
 - Figure out how to pull and patch upstream changes, as we can't (or, rather, don't get any value from) just forking
-    - Perhaps this up as flavors so we keep the official release in one source tree and copy and patch to build the actual Android flavor
+    - Configure the src as flavors so we keep the official release in one source tree and copy and patch to build the actual Android flavor
 - Get tests working
